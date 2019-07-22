@@ -1,0 +1,27 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: autosam.aux
+The style file: IEEEtran.bst
+Database file #1: autosam.bib
+Repeated entry---line 114 of file autosam.bib
+ : @misc{berners-lee_linked_2006
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 149 of file autosam.bib
+ : @misc{wuttke_here_2019
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 198 of file autosam.bib
+ : @article{wilkinson_fair_2016
+ :                             ,
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in thiery_sphere_2019
+Warning--empty journal in thiery_taming_2018_1
+Warning--empty journal in thiery_ars3d_2019
+Warning--empty journal in seidensticker_rdf_2018
+Warning--empty journal in thiery_taming_2018
+Warning--empty journal in thiery_caa_2019
+
+Done.
+(There were 3 error messages)
